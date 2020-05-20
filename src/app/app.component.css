@@ -1,0 +1,68 @@
+.Top_color {
+    
+    background-color: gray;
+    padding: 50px;
+}
+
+.M_color {
+   
+    background-color: lightgray;
+    padding: 20px;
+}
+.M1_color {
+   
+    background-color: gray;
+    padding: 10px;
+}
+
+.B-color {
+    background-color: gray;
+    padding: 15px;
+}
+
+.centre {
+    text-align: center
+}
+
+.centrey {
+    text-align: center;
+    background-color: yellow;
+}
+
+
+
+
+
+.padding {
+   
+    background-color: white;
+
+    padding: 50px;
+    width: 550px;
+    float: left;
+    height: 900px;
+    
+}
+.paddingl {
+   
+    background-color: white;
+    border-left: 1px solid black;
+    
+    padding: 50px;
+    width: 550px;
+    margin-left: 675px;
+    height: 900px;
+}
+
+.titlebd{
+    position:absolute;
+    width: 500px;
+    background-color:yellow;
+    margin-top:90px;
+    margin-left:430px;
+    margin-right:600px;
+    text-align:center;
+    font-size:50px;
+    height:60px;
+
+}
